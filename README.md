@@ -1,0 +1,1 @@
+# ionic-swipe-gesture-bug
